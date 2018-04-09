@@ -7,3 +7,7 @@ Uno de los equipos creará una serie de pruebas (a través del uso de símbolos)
 El equipo que vá resolviendo las pruebas encontrará los símbolos en diferentes cartas repartidas por el escenario en el que transcurre el juego.
 
 En definitiva se trata de poner en práctica el pensamiento computacional para ser intrepretado por un lado y, por el otro lado, ser capaces de resolverlo.
+
+## Crear el contenido
+Para crear el juego se usarán los programas Tiled (creador de mapas para videojuegos, en este caso el mapa del laberinto)
+Con Inkscape crear las tarjetas con los simbolos para guiar a los exploradores (lenguaje de programación)
